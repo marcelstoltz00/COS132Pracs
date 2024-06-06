@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcelstoltz/Projects/L14-Example/2. Forward declarations/Functions_V2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A18, symSize: 0x120 }
+  - { offsetInCU: 0x4495, offset: 0x4495, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x174, symBinAddr: 0x100003B8C, symSize: 0x58 }
+  - { offsetInCU: 0x44D5, offset: 0x44D5, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x424, symBinAddr: 0x100003E3C, symSize: 0x2C }
+  - { offsetInCU: 0x6E96, offset: 0x6E96, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A18, symSize: 0x120 }
+  - { offsetInCU: 0x6EAF, offset: 0x6EAF, size: 0x8, addend: 0x0, symName: __Z11peri_squaref, symObjAddr: 0x120, symBinAddr: 0x100003B38, symSize: 0x28 }
+  - { offsetInCU: 0x6F88, offset: 0x6F88, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x148, symBinAddr: 0x100003B60, symSize: 0x2C }
+  - { offsetInCU: 0x6FBA, offset: 0x6FBA, size: 0x8, addend: 0x0, symName: __Z14peri_rectangleff, symObjAddr: 0x1CC, symBinAddr: 0x100003BE4, symSize: 0x28 }
+  - { offsetInCU: 0x6FF4, offset: 0x6FF4, size: 0x8, addend: 0x0, symName: __Z11peri_circlef, symObjAddr: 0x1F4, symBinAddr: 0x100003C0C, symSize: 0x24 }
+  - { offsetInCU: 0x7020, offset: 0x7020, size: 0x8, addend: 0x0, symName: __Z12peri_ellipseff, symObjAddr: 0x218, symBinAddr: 0x100003C30, symSize: 0xC8 }
+  - { offsetInCU: 0x7068, offset: 0x7068, size: 0x8, addend: 0x0, symName: __Z11area_squaref, symObjAddr: 0x2E0, symBinAddr: 0x100003CF8, symSize: 0x28 }
+  - { offsetInCU: 0x7094, offset: 0x7094, size: 0x8, addend: 0x0, symName: __Z14area_rectangleff, symObjAddr: 0x308, symBinAddr: 0x100003D20, symSize: 0x20 }
+  - { offsetInCU: 0x70CE, offset: 0x70CE, size: 0x8, addend: 0x0, symName: __Z11area_circlef, symObjAddr: 0x328, symBinAddr: 0x100003D40, symSize: 0x28 }
+  - { offsetInCU: 0x70FA, offset: 0x70FA, size: 0x8, addend: 0x0, symName: __Z12area_ellipseff, symObjAddr: 0x350, symBinAddr: 0x100003D68, symSize: 0x30 }
+  - { offsetInCU: 0x7134, offset: 0x7134, size: 0x8, addend: 0x0, symName: __Z4sqrtB8ue170006f, symObjAddr: 0x380, symBinAddr: 0x100003D98, symSize: 0x18 }
+  - { offsetInCU: 0x7162, offset: 0x7162, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x398, symBinAddr: 0x100003DB0, symSize: 0x8C }
+  - { offsetInCU: 0x71CE, offset: 0x71CE, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x450, symBinAddr: 0x100003E68, symSize: 0x38 }
+...
