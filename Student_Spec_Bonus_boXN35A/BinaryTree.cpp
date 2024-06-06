@@ -17,7 +17,8 @@ using namespace std;
     {
 
         if (newNode->data == curr->data)
-        {
+        {//lets change this 
+        
             cout << "No duplicate insertions are permitted." << endl;
             return;
         }
