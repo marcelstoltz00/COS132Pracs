@@ -3,8 +3,7 @@
 using namespace std;
 
 int getsize() {};
-void NewArray(int size) {
-};
+void NewArray(int size) {};
 void initialiseAarray() {};
 void putValue(int, int) {};
 int getvalue() {};
